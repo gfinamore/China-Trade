@@ -39,11 +39,11 @@ BV,BVT,74,country,Bouvet Island,BVT,260
 BW,BWA,72,country,Botswana,BWA,252
 CF,CAF,140,country,Central African Republic,CAF,252
 CA,CAN,124,country,Canada,CAN,256
-CC,CCK,166,country,Cocos [Keeling] Islands,CCK,254
+CC,CCK,166,country,Cocos Keeling Islands,CCK,254
 CH,CHE,756,country,Switzerland,CHE,255
 CL,CHL,152,country,Chile,CHL,257
 CN,CHN,156,country,China,CHN,253
-CI,CIV,384,country,Cote d'Ivoire,CIV,252
+CI,CIV,384,country,Cote dIvoire,CIV,252
 CM,CMR,120,country,Cameroon,CMR,252
 CD,COD,180,country,Congo - Kinshasa,COD,252
 CG,COG,178,country,Congo - Brazzaville,COG,252
@@ -146,7 +146,7 @@ MH,MHL,584,country,Marshall Islands,MHL,254
 MK,MKD,807,country,Macedonia,MKD,255
 ML,MLI,466,country,Mali,MLI,252
 MT,MLT,470,country,Malta,MLT,255
-MM,MMR,104,country,Myanmar [Burma],MMR,253
+MM,MMR,104,country,Myanmar,MMR,253
 ME,MNE,499,country,Montenegro,MNE,255
 MN,MNG,496,country,Mongolia,MNG,253
 MP,MNP,580,country,Northern Mariana Islands,MNP,254
@@ -231,7 +231,7 @@ TW,TWN,158,country,Taiwan,TWN,253
 TZ,TZA,834,country,Tanzania,TZA,252
 UG,UGA,800,country,Uganda,UGA,252
 UA,UKR,804,country,Ukraine,UKR,255
-UM,UMI,581,country,U.S. Outlying Islands,UMI,254
+UM,UMI,581,country,US Outlying Islands,UMI,254
 UY,URY,858,country,Uruguay,URY,257
 US,USA,840,country,United States,USA,256
 UZ,UZB,860,country,Uzbekistan,UZB,253
@@ -251,12 +251,12 @@ ZW,ZWE,716,country,Zimbabwe,ZWE,252
 ZZ,ZZZ,999,country,Unknown,ZZZ,260
 XO,XXO,987,country,Other,XXO,260
 XF,XXF,978,country,Free Zones,XXF,260
-1,1,1,region,Africa,1,
-2,2,2,region,Asia,2,
-3,3,3,region,Oceania,3,
-4,4,4,region,Europe,4,
-5,5,5,region,North America,5,
-6,6,6,region,South America,6,
-7,7,7,region,Central America ,7,
-8,8,8,region,Carribean,8,
-9,9,9,region,Other,9,
+1,1,1,region,Africa,1,1
+2,2,2,region,Asia,2,2
+3,3,3,region,Oceania,3,3
+4,4,4,region,Europe,4,4
+5,5,5,region,North America,5,5
+6,6,6,region,South America,6,6
+7,7,7,region,Central America ,7,7
+8,8,8,region,Carribean,8,8
+9,9,9,region,Other,9,9
